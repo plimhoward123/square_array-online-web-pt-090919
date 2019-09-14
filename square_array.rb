@@ -5,5 +5,5 @@ def square_array(array)
       rt_arry[arry_num] << array[arry_num] ** 2
       arry_num++
 
-  return rt_array     
+  return rt_array
 end
